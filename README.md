@@ -1,1 +1,12 @@
-# React-Chakra-UI
+# React Chakra UI Template
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+In the project directory, you can run:
+
+### `npm install`
+
+### `npm start`
+
+
+this project will run on development mode `http://localhost:3000`
